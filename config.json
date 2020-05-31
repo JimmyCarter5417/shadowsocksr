@@ -6,10 +6,10 @@
     "local_port": 1080,
 
     "password": "m",
-    "method": "aes-256-cfb",
-    "protocol": "auth_aes128_sha1",
+    "method": "rc4",
+    "protocol": "origin",
     "protocol_param": "",
-    "obfs": "http_post",
+    "obfs": "plain",
     "obfs_param": "",
     "speed_limit_per_con": 0,
     "speed_limit_per_user": 0,
